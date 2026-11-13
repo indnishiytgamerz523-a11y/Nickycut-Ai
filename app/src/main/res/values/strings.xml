@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NickyCut AI</string>
+    <string name="app_tagline">Offline-First Pro Studio &amp; Gemini Creator Suite</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_projects">Projects</string>
+    <string name="nav_tools">Tools</string>
+    <string name="nav_settings">Settings</string>
+    <string name="action_back">Back</string>
+    <string name="action_export">Export</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_rename">Rename</string>
+    <string name="action_share">Share</string>
+</resources>

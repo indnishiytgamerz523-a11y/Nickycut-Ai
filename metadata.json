@@ -1,0 +1,6 @@
+{
+  "name": "NickyCut AI",
+  "description": "Native Android video editing suite with offline media processing, kinetic typography, auto captions, audio tools, background removal, and optional Gemini AI creator workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
